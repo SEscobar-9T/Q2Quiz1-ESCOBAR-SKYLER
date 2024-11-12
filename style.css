@@ -1,0 +1,42 @@
+img {
+	width: 500px;
+}
+
+.header	{
+	text-align: center;
+	margin: 20px;
+	padding: 25px;
+}
+
+body {
+	background-color: peachpuff;
+	font-family: courier;
+	font-style: italic;	
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url(https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltd30d1f2d41df988a/667ea909f7def6af2f11b22d/Philippines_hitoshi-namura-unsplash.jpg?width=1280&auto=webp&quality=95&format=jpg&disable=upscale);
+	background-size: cover;
+}
+
+.footer {
+	bottom:0;
+	position: fixed;
+	text-align:center;
+	width: 100%;
+	background-color: peachpuff;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+	
+span {
+
+	background-color: peachpuff;
+	padding: 20px;
+}
